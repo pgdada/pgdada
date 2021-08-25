@@ -4,9 +4,11 @@ Welcome to my GitHub profile
 
 > Programming skills include:
  - Python
+ - Machine Learning
  - C++
  - Matlab
  - SQL
+ - Django
 <!--
 **pgdada/pgdada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
